@@ -1,0 +1,8 @@
+# Longest Common Prefix 
+
+
+```cpp
+
+
+
+```
