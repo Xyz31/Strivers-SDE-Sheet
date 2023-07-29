@@ -37,7 +37,6 @@ void solve(int col, int n, vector < vector < int >> & ans, vector < int > & row,
             row[i] = d1[col - i + n - 1] = d2[col + i] = -1;
         }
     }
-
     return;
 }
 

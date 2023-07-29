@@ -45,12 +45,10 @@ bool solveSudoku(int board[9][9]) {
               board[row][col] = 0;  // Undo the choice and try a different number
           }
         }
-
         return false;  // No valid number found for this cell, backtrack
       }
     }
   }
-
   return true;  // Sudoku solved, all cells filled
 }
 
