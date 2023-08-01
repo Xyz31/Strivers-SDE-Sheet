@@ -9,9 +9,3 @@
 ```
 
 
-# Approach - II
-```cpp
-
-
-
-```
