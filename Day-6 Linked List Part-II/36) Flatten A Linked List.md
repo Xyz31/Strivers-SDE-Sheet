@@ -1,6 +1,28 @@
 # Flatten A Linked List
 
+Sample Input 1 :
+4
+3
+1 2 3
+3
+8 10 15
+2
+18 22
+1
+29
 
+
+Sample Output 1 :
+1 2 3 8 10 15 18 22 29
+
+
+Explanation For Sample Input 1:
+The given linked list is 
+
+Therefore after flattening the list will become-
+1 -> 2 -> 3 -> 8 -> 10 -> 15 -> 18 -> 22 -> 29 ->null
+
+## code 
 ```cpp
 
 /*

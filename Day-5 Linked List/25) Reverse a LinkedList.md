@@ -1,5 +1,14 @@
 # Reverse a LinkedList
 
+Sample Input 1 :
+1
+1 2 3 4 5 6 -1
+
+
+Sample Output 1 :
+6 5 4 3 2 1 -1
+
+
 ## code 
 
 ```cpp

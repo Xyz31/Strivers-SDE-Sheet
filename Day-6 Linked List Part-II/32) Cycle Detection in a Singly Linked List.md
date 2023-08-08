@@ -1,5 +1,11 @@
 # Cycle Detection in a Singly Linked List
 
+Sample Input 1 :
+1 2 3 4 -1
+1
+
+Sample Output 1 :
+true
 
 ```cpp
 

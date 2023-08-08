@@ -1,5 +1,20 @@
 # Check Linked list is palindrome or not
 
+Sample Input 1 :
+2
+1 2 3 4 5 6 -1
+1 2 1 -1
+
+Sample Output 1 :
+false
+true
+
+Explanation For Sample 1:
+For the first test case, it is not a palindrome because Linked List doesn't have the same order of elements when traversed forwards and backwards​.
+
+For the second test case, it is a palindrome linked list because a Linked List has the same order of elements when traversed forwards and backwards​.
+
+## code
 ```cpp
 
 #include <bits/stdc++.h> 

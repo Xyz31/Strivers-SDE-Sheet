@@ -1,6 +1,22 @@
 # Rotate a linked list
 
+Sample Input 1 :
+6
+1 2 3 4 5 6
+2
 
+
+Sample Output 1 :
+5 6 1 2 3 4
+
+
+Explanation For Sample Input 1 :
+For the first test case, after 1st clockwise rotation the modified linked list will be : 6->1->2->3->4->5
+After, 2nd clockwise rotated the modified linked list will be : 5->6->1->2->3->4.
+Thus the output is: 5 6 1 2 3 4.
+
+
+## code
 ```cpp
 
 /**

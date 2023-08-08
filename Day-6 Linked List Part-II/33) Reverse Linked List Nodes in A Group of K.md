@@ -1,5 +1,15 @@
 # Reverse Linked List Nodes in A Group of K.
 
+Sample Input 1:
+1 2 3 4 5 6 7 8 9 10 11 -1
+3
+2 3 4
+
+Sample Output 1:
+2 1 5 4 3 9 8 7 6 10 11 -1
+
+Explanation Of The Sample Output 1:
+For the given input, the block sizes are 2, 3 and 4 respectively. First, we reverse 2 elements (1->2 becomes 2->1), then the next 3 elements (3->4->5 becomes 5->4->3) and lastly the next 4 elements (6->7->8->9 becomes 9->8->7->6). Thus, the final modified list becomes 2->1->5->4->3->9->8->7->6->10->11. 
 
 ```cpp
 

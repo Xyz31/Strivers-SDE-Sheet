@@ -1,5 +1,16 @@
 # Copy Linked List with Random Pointer
 
+Sample Input 1:
+1
+1 2 2 0 3 4 4 4 5 1 -1
+
+Sample Output 1:
+true
+
+Explanation Of Sample Input 1:
+For the first test case, “true” will be printed if the linked list is successfully cloned.
+
+## code
 ```cpp
 
 #include <bits/stdc++.h>

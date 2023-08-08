@@ -1,6 +1,15 @@
 # Intersection of Two Linked Lists
 
+Sample Input 1 :
+4 1 -1
+5 6 -1
+8 -1
 
+Sample Output 1 :
+8
+
+Explanation For Sample Input 1:
+As shown in the diagram, the node with data is 8, at which merging starts
 ```cpp
 
 /****************************************************************

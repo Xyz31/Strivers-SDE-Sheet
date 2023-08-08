@@ -1,5 +1,5 @@
 # Combination Sum 
-# Return Subsets Sum to K
+# Return Subsets Sum to K (Sum == K)
 
 
 ```cpp

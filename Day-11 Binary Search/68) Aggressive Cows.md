@@ -22,7 +22,7 @@ int chessTournament(vector<int> positions , int n ,  int c){
  * @param c: The number of rooms available.
  * @return: The minimum distance between chess players.
  */
-int chessTournament(std::vector<int> positions, int n, int c) {
+int chessTournament(vector<int> positions, int n, int c) {
     // Sort the positions in ascending order
     sort(positions.begin(), positions.end());
     

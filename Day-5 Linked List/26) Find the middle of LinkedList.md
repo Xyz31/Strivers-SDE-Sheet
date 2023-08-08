@@ -1,5 +1,12 @@
 # Find the middle of LinkedList
 
+Sample Input 1 :
+5
+1 2 3 4 5
+
+Sample Output 1 :
+3 4 5
+
 ## code 
 
 ```cpp

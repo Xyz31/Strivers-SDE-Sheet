@@ -1,5 +1,7 @@
 # Combination Sum II
 
+Modification of combination sum 1 to handle the cases of duplicate elements
+
 ```cpp
 
 #include<algorithm>

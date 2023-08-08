@@ -1,5 +1,15 @@
 # Remove N-th node from back of LinkedList
 
+Sample Input 1 :
+6 3
+1 2 3 4 5 6 
+
+Sample Output 1 :
+1 2 3 5 6
+
+Explanation For Sample Input 1:
+In the given linked list the node with data ‘4’ will be removed as this is the 3rd node from the end of the Linked List.
+
 ## code 
 
 ```cpp

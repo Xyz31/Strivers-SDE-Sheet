@@ -26,7 +26,7 @@ bool isFeasible(long long maxTime, int n, std::vector<int>& time) {
 
 // Function to find the minimum time required for Ayush to give the ninja test
 long long ayushGivesNinjatest(int n, int m, std::vector<int>& time) {
-    long long left = 1;               // Initialize the left boundary of the binary search range to 1
+    long long left = *max_element(time.begin(),time.end());               // Initialize the left boundary of the binary search range to 1
     long long right = std::accumulate(time.begin(), time.end(), 0LL);  // Calculate the sum of all times as the right boundary
     long long result = LLONG_MAX;     // Initialize 'result' to the maximum possible value of long long
 

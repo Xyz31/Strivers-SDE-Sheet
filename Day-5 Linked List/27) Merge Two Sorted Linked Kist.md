@@ -1,5 +1,25 @@
 # Merge Two Sorted Linked Lists
 
+
+Sample Input 1:
+2
+1 4 5 -1
+2 3 5 -1
+7 8 -1
+1 3 4 6 -1
+
+Sample Output 1:
+1 2 3 4 5 5 -1
+1 3 4 6 7 8 -1
+
+Explanation Of Input 1:
+The first test case is already explained in the problem statement.
+
+The second test case, the first list is: 7 -> 8 -> NULL
+The second list is: 1 -> 3 -> 4 -> 6 -> NULL
+The final list would be: 1 -> 3 -> 4 -> 6 -> 7 -> 8 -> NULL
+
+
 ```cpp
 
 #include <bits/stdc++.h>

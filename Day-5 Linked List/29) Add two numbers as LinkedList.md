@@ -1,5 +1,19 @@
 # Add two numbers as LinkedList
 
+Sample Input 1 :
+3
+1 2 3
+3
+4 5 6
+
+
+Sample Output 1 :
+5 7 9
+
+
+Explanation For Sample Input 1 :
+'num1' represents the number 321 and 'num2' represents 654. Their sum is 975.
+
 ## code 
 
 ```cpp

@@ -1,5 +1,23 @@
 # Trapping RainWater
 
+Sample Input 1:
+4
+2 1 1 4
+
+Sample Output 1:
+2
+
+Explanation Of Sample Input 1:
+Water trapped by:
+     block of height 2 is 0 units.
+     block of height 1 is 1 unit.
+     block of height 1 is 3 1 unit. 
+     block of height 4 is 3 0 units.
+
+Hence the total is 2.
+
+## code
+
 ```cpp
 
 #include <bits/stdc++.h> 
