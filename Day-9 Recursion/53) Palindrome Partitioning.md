@@ -1,6 +1,18 @@
 # Palindrome Partitioning
 
+Sample Input 1:
+aaC
 
+
+Sample Output 1:
+["C", "a", "a"]
+["C", "aa"]
+
+
+Explanation For Input 1:
+For the given string "aaC" there are two partitions in which all substring of partition is a palindrome.
+
+## code
 ```cpp
 
 #include <bits/stdc++.h> 

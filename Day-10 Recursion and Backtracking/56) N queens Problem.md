@@ -1,5 +1,29 @@
 # N queens Problem
 
+
+Sample Input 1:
+4
+
+
+Sample Output 1:
+
+0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0
+0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 0 
+
+
+Explanation For Sample Input 1:
+Output depicts two possible configurations of the chessboard for 4 queens.
+
+The Chessboard matrix for the first configuration looks as follows:-
+
+0 0 1 0
+1 0 0 0
+0 0 0 1
+0 1 0 0
+
+Queen contained cell is depicted by 1. As seen, No queen is in the same row, column, or diagonal as the other queens. Hence this is a valid configuration.
+
+## code
 # Approach I
 ```cpp
 

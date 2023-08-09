@@ -1,5 +1,28 @@
 # Maximum activities
 
+Sample Input 1:
+2
+4
+1 6 2 4 
+2 7 5 8 
+3
+1 1 1
+4 5 9
+
+
+Sample Output 1:
+3
+1
+
+
+Explanation For Sample Input 1:
+For test case 1: 
+A person can perform maximum of 3 activities, by performing the activities in the given order 1 - > 3 -> 2.
+
+For test case 2:
+As the starting of all the activities is the same, a person can perform a maximum of 1 activity.
+
+## code
 ```cpp
 
 /*

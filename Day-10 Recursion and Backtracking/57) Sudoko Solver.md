@@ -1,6 +1,36 @@
 # 	Sudoko Solver
 
 
+Sample Input 1:
+1
+9 0 0 0 2 0 7 5 0 
+6 0 0 0 5 0 0 4 0 
+0 2 0 4 0 0 0 1 0 
+2 0 8 0 0 0 0 0 0 
+0 7 0 5 0 9 0 6 0 
+0 0 0 0 0 0 4 0 1 
+0 1 0 0 0 5 0 8 0 
+0 9 0 0 7 0 0 0 4 
+0 8 2 0 4 0 0 0 6
+
+
+Sample Output 1:
+yes
+
+
+Explanation Of The Sample Input1:
+One of the possible solutions is:
+9 4 1 3 2 6 7 5 8
+6 3 7 1 5 8 2 4 9
+8 2 5 4 9 7 6 1 3
+2 6 8 7 1 4 3 9 5
+1 7 4 5 3 9 8 6 2
+3 5 9 6 8 2 4 7 1
+4 1 3 2 6 5 9 8 7
+5 9 6 8 7 3 1 2 4
+7 8 2 9 4 1 5 3 6
+
+## code
 ```cpp
 
 // Check if a number is valid to be placed at a specific position in the Sudoku board

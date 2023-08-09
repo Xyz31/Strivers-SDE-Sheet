@@ -1,6 +1,27 @@
 # Aggressive Cows
 
 
+```md
+Sample Input 1:
+1
+3 5
+1 2 2 3 1
+
+
+Sample Output 1:
+4
+
+
+Explanation Of Sample Input 1:
+The ayush will read the chapter as follows,
+Day 1 : 1 , 2         Time required : 3
+Day 2 : 3             Time required : 2
+Day 3 : 4 , 5         Time required : 4
+So the maximum time in a day is 4.
+
+```
+
+## code
 ```cpp
 
 #include <bits/stdc++.h>

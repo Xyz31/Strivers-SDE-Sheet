@@ -1,6 +1,26 @@
 # Merge K Sorted Arrays
 
 
+```md
+Sample Input 1:
+1
+2
+3 
+3 5 9 
+4 
+1 2 3 8 
+
+
+Sample Output 1:
+1 2 3 3 5 8 9 
+
+
+Explanation Of Sample Input 1:
+After merging the two given arrays/lists [3, 5, 9] and [ 1, 2, 3, 8], the output sorted array will be [1, 2, 3, 3, 5, 8, 9].
+
+
+```
+## code
 ```cpp
 
 #include <bits/stdc++.h>

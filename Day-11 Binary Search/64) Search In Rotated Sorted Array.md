@@ -1,6 +1,27 @@
 # Search In Rotated Sorted Array
 
+```md
+Sample Input 1:
+4
+2 5 -3 0
+2
+5
+1
 
+
+Sample Output 1:
+1
+-1
+
+
+Explanation For Sample Input 1:
+In the 1st test case, 5 is found at index 1
+
+In the 2nd test case, 1 is not found in the array, hence return -1.
+
+```
+
+## code
 ```cpp
 
 int search(int* nums, int n, int target) {

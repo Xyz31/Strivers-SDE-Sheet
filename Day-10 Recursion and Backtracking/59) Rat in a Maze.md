@@ -1,5 +1,29 @@
 # Rat in a Maze
 
+
+Sample Input 1 :
+3
+1 0 1
+1 0 1
+1 1 1
+
+
+Sample Output 1 :
+1 0 0 1 0 0 1 1 1 
+
+
+Explanation For Sample Output 1:
+Only 1 path is possible which contains coordinate < (1,1), (2,1), (3,1), (3,2) and (3,3) >
+
+So our path matrix will look like this:
+
+1 0 0
+1 0 0
+1 1 1
+
+Which is returned from left to right and then top to bottom in one line.
+
+## code
 ```cpp
 
 

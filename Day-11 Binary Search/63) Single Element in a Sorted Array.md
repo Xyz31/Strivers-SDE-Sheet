@@ -1,6 +1,21 @@
 # Single Element in a Sorted Array
 
+```md
 
+Sample Input 1 :
+5 
+1 1 3 5 5 
+
+Sample Output 1 :
+3 
+
+Explanation Of Sample Input 1 :
+Given array is [1, 1, 3, 5, 5]    
+Here, 3 occurs once in the array. So, the answer is 3.
+
+```
+
+## code
 ```cpp
 
 int singleNonDuplicate(vector<int>& nums)

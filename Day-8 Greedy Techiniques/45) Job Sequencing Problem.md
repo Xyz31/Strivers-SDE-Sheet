@@ -1,5 +1,24 @@
 # Job Sequencing Problem
 
+Sample Input 1 :
+4
+1 2 30
+2 2 40
+3 1 10
+4 1 10
+
+
+Sample Output 1 :
+2 70
+
+
+Explanation For Sample Input 1 :
+At time 0-1, Job 1 will complete.
+
+At time 1-2, Job 2 will complete.
+
+The first and second jobs can be completed within the deadlines, and we earn a profit of 70 by doing so.
+## code
 ```cpp
 
 #include <bits/stdc++.h>

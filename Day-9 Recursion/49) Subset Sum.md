@@ -1,5 +1,28 @@
 # Subset Sum
 
+Sample Input 1 :
+3
+1 2 3
+
+
+Sample Output 1 :
+0 1 2 3 3 4 5 6
+
+
+Explanation For Sample Output 1:
+For the first test case,
+Following are the subset sums:
+0 (by considering empty subset)
+1
+2
+1+2 = 3
+3
+1+3 = 4
+2+3 = 5
+1+2+3 = 6
+So, subset-sums are [0,1,2,3,3,4,5,6]
+
+## code
 ```cpp
 
 /*

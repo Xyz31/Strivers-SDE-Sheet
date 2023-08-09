@@ -1,6 +1,22 @@
 # K Max Sum Combinations
 
+Sample Input 1 :
+3 2
+1 3 5
+6 4 2
 
+
+Sample Output 1 :
+11 9
+
+
+Explanation Of Sample Output 1 :
+For the given arrays/lists, all the possible sum combinations are: 
+7(1 + 6), 5(1 + 4), 3(1 + 2), 9(3 + 6), 7(3 + 4), 5(3 + 2), 11(6 + 5), 9(5 + 4), 7(5 + 2).
+
+The two maximum sum combinations from the above combinations are 11 and 9. 
+
+## code
 ```cpp
 
 

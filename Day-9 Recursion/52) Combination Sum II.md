@@ -2,6 +2,31 @@
 
 Modification of combination sum 1 to handle the cases of duplicate elements
 
+
+Sample Input 1:
+7 8
+10 1 2 7 6 1 5
+
+
+Sample Output 1:
+1 1 6
+1 2 5
+1 7
+2 6
+
+
+Explanation For Sample Input 1:
+Here ‘n’ = 7, 'arr' = [10, 1, 2, 7, 6, 1 , 5], and ‘target’ = 8
+All unique combinations whose sum of elements is 8 are -:     
+
+(1, 1, 6)  because, 1 + 1 + 6 = 8
+(1, 2, 5)  because,  1 + 2 + 5 = 8
+(1, 7)  because, 1 + 7 = 8                                                                                                               
+(2, 6)  because,  2 + 6 = 8
+
+Note that, elements in each combination are in non-decreasing order and all unique combinations are arranged in lexicographical order. 
+
+## code
 ```cpp
 
 #include<algorithm>

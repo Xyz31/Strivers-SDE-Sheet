@@ -1,6 +1,22 @@
 #  Print all permutations of a string/array
 
+Sample Input 1:
+cba
 
+
+Sample Output 1:
+abc
+acb
+bac
+bca
+cab
+cba
+
+
+Explanation For Sample Output 1:
+All the possible permutations for string "cba" will be "abc", "acb", "bac", "bca", "cab" and "cba".
+
+## code
 ```cpp
 
 #include <bits/stdc++.h> 

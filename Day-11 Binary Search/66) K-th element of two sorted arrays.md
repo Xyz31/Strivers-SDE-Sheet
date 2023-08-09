@@ -1,6 +1,31 @@
 # K-th element of two sorted arrays
 
+Sample Input 1 :
+2
+5 4 3
+3 11 23 45 52
+4 12 14 18
+1 1 2
+1
+2
 
+
+Sample Output 1 :
+11
+ 2
+
+ 
+Explanation For Sample Output 1 :
+For sample test case 1: 
+1’st person will get 3 ladoos i.e a minimum of 3 and 4. Now  ‘ROW1’ :  [11, 23, 45, 52] and  ‘ROW2’ :  [4, 12, 14, 18].
+2’nd person will get 4 ladoos i.e minimum of 11 and 4. Now  ‘ROW1’ :  [11, 23, 45, 52] and  ‘ROW2’ :  [12, 14, 18].
+3’rd person will get 11 ladoos i.e minimum of 11 and 12. 
+
+ For sample test case 2: 
+1’st person will get 1 ladoos i.e a minimum of 1 and 2. Now  ‘ROW1’ :  [ ] and  ‘ROW2’ :  [2].
+2’st person will get 2 ladoos because we have only one element left in ROW2 . Now  ‘ROW1’ :  [] and  ‘ROW2’ :  [].
+
+## code
 ```cpp
 
 #include<limits.h>

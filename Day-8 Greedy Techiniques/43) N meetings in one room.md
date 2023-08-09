@@ -1,6 +1,22 @@
 # N meetings in one room
 
+Sample Input 1:
+6
+1 3 0 5 8 5
+2 4 6 7 9 9
 
+Sample Output 1:
+4
+
+Explanation For Sample Input 1:
+You can organize a maximum of 4 meetings: 
+
+Meeting number 1 from 1 to 2.
+Meeting number 2 from 3 to 4.
+Meeting number 4 from 5 to 7.
+Meeting number 5 from 8 to 9.
+
+## code
 ```cpp
 
 #include <bits/stdc++.h>

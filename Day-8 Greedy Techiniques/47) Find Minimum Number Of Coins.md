@@ -1,6 +1,17 @@
 # Find Minimum Number Of Coins
 
+Sample Input 1
+13
 
+
+Sample Output 1
+10 2 1
+
+
+Explanation Of Sample Input 1
+The minimum number of coins to change is 3 {1, 2, 10}.
+
+## code
 ```cpp
 
 #include <bits/stdc++.h> 

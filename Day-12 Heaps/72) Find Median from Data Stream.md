@@ -1,8 +1,28 @@
 # Find Median from Data Stream
 
+```md
 
+Sample Input 1 :
+6
+6 2 1 3 7 5
+
+
+Sample Output 1 :
+6 4 2 2 3 4
+
+
+Explanation Of Sample Output 1 :
+S = {6}, median = 6
+S = {6, 2} -> {2, 6}, median = 4
+S = {6, 2, 1} -> {1, 2, 6}, median = 2
+S = {6, 2, 1, 3} -> {1, 2, 3, 6}, median = 2
+S = {6, 2, 1, 3, 7} -> {1, 2, 3, 6, 7}, median = 3
+S = {6, 2, 1, 3, 7, 5} -> {1, 2, 3, 5, 6, 7}, median = 4
+
+```
+
+## code
 ```cpp
-
 
 #include <queue>
 #include <iostream>

@@ -1,5 +1,37 @@
 # Subset Sum II
 
+Sample Input 1:
+2
+3
+1 1 3
+4
+1 3 3 3
+
+
+Sample Output 1:
+1
+1 1
+1 3
+3
+1 1 3
+
+1
+1 3
+1 3 3
+1 3 3 3 
+3 
+3 3
+3 3 3
+
+
+Explanation Of Sample Input 1:
+For the first test case,
+The unique subsets will be  [ ],[1],[1,1],[1,3],[3],[1,1,3]. 
+
+For the second test case:
+The unique subsets will be  [ ],[1,3],[1,3,3],[1,3,3,3],[3],[3,3],[3,3,3]. 
+
+## code
 ```cpp
 
 #include <bits/stdc++.h> 

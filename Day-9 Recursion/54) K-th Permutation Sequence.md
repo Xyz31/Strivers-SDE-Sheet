@@ -1,6 +1,22 @@
 # K-th Permutation Sequence
 
+Sample Input 1:
+2
+2 1
+3 6
 
+
+Sample Output 1:
+12
+321
+
+
+Explanation For Sample Output 1:
+For the first test case, ‘N’ = 2. So all permutations are “12”, “21”. Now ‘K’ = 1, so the 1st permutation is “12”.
+
+For the second test case, ‘N’ = 3. So all permutations are  “123”, “132”, “213”, “231”, “312”, “321”. Now ‘K’ = 6, so the 6th permutation is “321”.
+
+## code
 ```cpp
 
 string kthPermutation(int n, int k) {

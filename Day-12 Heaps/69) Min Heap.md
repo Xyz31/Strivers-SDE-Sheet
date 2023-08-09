@@ -1,6 +1,35 @@
 # Min Heap
 
+```md
+Sample Input 1 :
+2
+3
+0 2
+0 1
+1
+2
+0 1
+1
 
+
+Sample Output 1 :
+1
+1
+
+
+Explanation Of Sample Input 1 :
+For the first test case:-
+Insert 2 in the heap and currently, 2 is the smallest element in the heap.
+Insert 1 in the heap and now the smallest element is 1.
+Return and remove the smallest element which is 1.
+
+For the second test case:-
+Insert 1 in the heap and currently, 1 is the smallest element in the heap.
+Return the smallest element from the heap which is 1 and remove it.
+
+```
+
+## code
 ```cpp
 
 #include <bits/stdc++.h>

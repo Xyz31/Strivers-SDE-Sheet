@@ -1,6 +1,26 @@
 # Matrix Median
 
+Sample Input 1:
+2
+1 3
+1 2 3
+3 3
+2 6 9
+1 5 11
+3 7 8
 
+
+Sample Output 1:
+2
+6
+
+
+Explanation Of Sample Input 1:
+In the first test case, the overall median of the matrix is 2.
+
+In the second test case, the overall median of the matrix is 6.
+
+## code
 ```cpp
 
 

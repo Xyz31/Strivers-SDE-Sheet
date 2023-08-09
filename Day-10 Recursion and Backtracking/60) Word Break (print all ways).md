@@ -1,6 +1,24 @@
 # Word Break (print all ways)
 
+Sample Input 1:
+1
+6
+god is now no where here
+godisnowherenowhere
 
+
+Sample Output 1:
+god is no where no where
+god is no where now here
+god is now here no where
+god is now here now here
+
+
+Explanation To Sample Input 1:
+One way to make sentences is to take “god” and append a space, then take “is”  and append space, take “now” from the dictionary and take “here” as well. 
+Similarly, for other sentences also, we can add space to get other possible sentences. Note that we can reuse dictionary words as “no” and “now” are used two times in the same sentence.
+
+## code
 ```cpp
 
 #include <bits/stdc++.h> 

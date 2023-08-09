@@ -1,10 +1,24 @@
 # Median of 2 sorted arrays
 
+```md
+Sample Input 1:
+3 3
+2 4 6
+1 3 5
+
+Sample Output 1:
+3.5
+
+
+Explanation Of Sample Input 1 :
+The array after merging 'a' and 'b' will be { 1, 2, 3, 4, 5, 6 }. 
+Here two medians are 3 and 4. So the median will be the average of 3 and 4, which is 3.5.
+
+```
+
+## code
 
 ```cpp
-
-
-
 
 double median(vector<int>& nums1, vector<int>& nums2) {
 	// Write your code here.

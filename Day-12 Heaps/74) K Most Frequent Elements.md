@@ -1,5 +1,22 @@
 # K Most Frequent Elements
 
+```md
+Sample Input 1:
+5 2
+1 2 2 3 3 
+
+
+Sample Output 1:
+2 3
+
+
+Explanation Of Sample Input 1:
+The answer will {2, 3} as 2 and 3 are the elements occurring the most number of times.
+
+```
+
+
+## code
 ```cpp
 
 
