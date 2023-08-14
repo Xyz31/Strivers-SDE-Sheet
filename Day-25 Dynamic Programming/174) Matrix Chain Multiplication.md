@@ -1,6 +1,12 @@
 # Matrix Chain Multiplication
 
 
+```md
+
+
+
+```
+ 
 # Approach - I Recursive with memoization (bottom up )
 ```cpp
 

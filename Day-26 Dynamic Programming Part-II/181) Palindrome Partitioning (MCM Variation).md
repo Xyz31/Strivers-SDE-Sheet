@@ -1,6 +1,12 @@
 # Palindrome Partitioning (MCM Variation)
 
 
+```md
+
+
+
+```
+ 
 # Approach - I
 ```cpp
 

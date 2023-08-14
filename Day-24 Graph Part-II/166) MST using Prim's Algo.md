@@ -1,6 +1,12 @@
 # MST using Prim's Algo
 
 
+```md
+
+
+
+```
+ 
 # Approach - I
 ```cpp
 

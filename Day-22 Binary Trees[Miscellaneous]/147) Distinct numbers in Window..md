@@ -1,6 +1,12 @@
 # Distinct numbers in Window.
 
 
+```md
+
+
+
+```
+ 
 # Approach - I Brute force approach
 ```cpp
 

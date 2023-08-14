@@ -1,6 +1,12 @@
 # Number Of Distinct Substring
 
 
+```md
+
+
+
+```
+ 
 ```cpp
 
 #include <bits/stdc++.h> 

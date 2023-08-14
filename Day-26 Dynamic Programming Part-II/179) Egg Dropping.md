@@ -1,9 +1,11 @@
-# Egg Dropping
+# Egg Dropping - Cut Logs
+
+```md
 
 
 
-# Cut Logs
-
+```
+ 
 # Approach - I Recursion
 ```cpp
 

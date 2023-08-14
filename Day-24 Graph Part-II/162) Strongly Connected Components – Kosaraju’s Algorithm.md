@@ -1,5 +1,11 @@
 # Strongly Connected Components – Kosaraju’s Algorithm
 
+```md
+
+
+
+```
+ 
 
 # Approach - I
 ```cpp
