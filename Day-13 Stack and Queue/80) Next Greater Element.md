@@ -1,5 +1,10 @@
 # Next Greater Element
 
+```md
+
+
+
+```
 
 ```cpp
 

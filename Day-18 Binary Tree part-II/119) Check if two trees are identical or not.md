@@ -1,5 +1,10 @@
 # Check if two trees are identical or not
 
+```md
+
+
+
+```
 
 # Approach - I
 ```cpp

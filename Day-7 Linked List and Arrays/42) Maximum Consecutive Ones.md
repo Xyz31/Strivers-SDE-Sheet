@@ -16,6 +16,12 @@ So the updated array will be {1,0,0,1,1,1,1}.
 
 As we can see in the updated array the longest subarray with all 1’s is from index 3 of length 4.
 
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

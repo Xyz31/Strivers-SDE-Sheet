@@ -16,6 +16,13 @@ cba
 Explanation For Sample Output 1:
 All the possible permutations for string "cba" will be "abc", "acb", "bac", "bca", "cab" and "cba".
 
+
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

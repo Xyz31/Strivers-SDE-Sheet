@@ -22,6 +22,13 @@ Following are the subset sums:
 1+2+3 = 6
 So, subset-sums are [0,1,2,3,3,4,5,6]
 
+
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

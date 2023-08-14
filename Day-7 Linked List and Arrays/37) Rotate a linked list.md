@@ -16,6 +16,12 @@ After, 2nd clockwise rotated the modified linked list will be : 5->6->1->2->3->4
 Thus the output is: 5 6 1 2 3 4.
 
 
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

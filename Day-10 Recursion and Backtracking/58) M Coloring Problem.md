@@ -15,6 +15,12 @@ YES
 Explanation Of Input 1:
 The adjacency matrix tells us that 1 is connected to 2, and 2 is connected to 3. We can see that a minimum of 2 colors would be needed to color the graph. So it is possible to color the graph in this case.
 
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

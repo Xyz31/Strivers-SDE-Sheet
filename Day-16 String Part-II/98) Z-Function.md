@@ -1,5 +1,10 @@
 # Z-Function
 
+```md
+
+
+
+```
 
 ```cpp
 

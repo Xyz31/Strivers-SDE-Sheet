@@ -1,5 +1,10 @@
 # KMP algo / LPS(pi) array
 
+```md
+
+
+
+```
 
 ```cpp
 

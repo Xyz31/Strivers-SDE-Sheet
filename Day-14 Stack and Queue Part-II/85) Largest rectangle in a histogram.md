@@ -1,5 +1,11 @@
 # Largest rectangle in a histogram
 
+```md
+
+
+
+```
+
 # Approach-I
 ```cpp
 

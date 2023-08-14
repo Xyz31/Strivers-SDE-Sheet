@@ -16,6 +16,12 @@ Explanation Of The Sample Input 1:
 
 For the array'ARR' = {2, 4, 6}, we can have subsets {}, {2}, {4}, {6}, {2, 4}, {2, 6}, {4, 6}, {2, 4, 6}. Out of these 8 subsets, {2, 4} and {6} sum to the given 'K' i.e. 6. 
 
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

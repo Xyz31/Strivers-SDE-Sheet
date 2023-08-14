@@ -25,6 +25,13 @@ there is no way by which we can allocate rooms such that every player will have 
     Player3 = 11
     Player4 = 13 
 
+
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

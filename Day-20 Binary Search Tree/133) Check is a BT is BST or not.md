@@ -1,6 +1,12 @@
 # Check is a BT is BST or not
 
 
+```md
+
+
+
+```
+
 # Approach - I
 ```cpp
 

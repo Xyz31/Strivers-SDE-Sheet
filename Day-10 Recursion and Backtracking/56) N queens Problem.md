@@ -23,6 +23,12 @@ The Chessboard matrix for the first configuration looks as follows:-
 
 Queen contained cell is depicted by 1. As seen, No queen is in the same row, column, or diagonal as the other queens. Hence this is a valid configuration.
 
+```md
+
+
+
+```
+
 ## code
 # Approach I
 ```cpp

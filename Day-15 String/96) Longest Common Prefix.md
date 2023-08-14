@@ -1,5 +1,10 @@
 # Longest Common Prefix 
 
+```md
+
+
+
+```
 
 ```cpp
 

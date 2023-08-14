@@ -1,5 +1,10 @@
 # Maximum of minimum for every window size
 
+```md
+
+
+
+```
 
 # Approach -I
 ```cpp

@@ -1,6 +1,12 @@
 # Mirror Tree - Invert a Binary Tree
 
- Approach Q-125
+Approach Q-125
+```md
+
+
+
+```
+
 # Approach - I
 ```cpp
 

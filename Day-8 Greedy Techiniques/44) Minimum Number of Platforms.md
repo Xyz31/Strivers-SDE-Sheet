@@ -46,6 +46,12 @@ Train 4 departed at 500 from platform 2.
 
 Thus, 2 platforms are needed for the given input.
 
+```md
+
+
+
+```
+
 ## code 
 ```cpp
 

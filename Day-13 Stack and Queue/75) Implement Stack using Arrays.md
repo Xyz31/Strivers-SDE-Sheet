@@ -1,6 +1,12 @@
 # Implement Stack using Arrays
 
 
+```md
+
+
+
+```
+
 ```cpp
 
 #include <bits/stdc++.h> 

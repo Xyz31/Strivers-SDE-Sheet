@@ -1,5 +1,11 @@
 # Next Smaller Element
 
+```md
+
+
+
+```
+
 
 ```cpp
 

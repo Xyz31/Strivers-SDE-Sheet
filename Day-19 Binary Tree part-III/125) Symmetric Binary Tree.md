@@ -1,5 +1,10 @@
 # Symmetric Binary Tree
 
+```md
+
+
+
+```
 
 # Approach - I
 ```cpp

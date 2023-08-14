@@ -17,6 +17,13 @@ Explanation Of Sample Output 1:
 The most optimal way to fill the knapsack is to choose full items with weight 10 and value 30, weight 40 and value 50, weight 120 and value 100. Then take weight 30 from the item with weight 50 and value 40.
 
 The total value =  30 + 50 + 100 + (30/50)*(40) = 204.00
+
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

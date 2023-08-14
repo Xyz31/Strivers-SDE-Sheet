@@ -16,6 +16,12 @@ For the first test case, ‘N’ = 2. So all permutations are “12”, “21”
 
 For the second test case, ‘N’ = 3. So all permutations are  “123”, “132”, “213”, “231”, “312”, “321”. Now ‘K’ = 6, so the 6th permutation is “321”.
 
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

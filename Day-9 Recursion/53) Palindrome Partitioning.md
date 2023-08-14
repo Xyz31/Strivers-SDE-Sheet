@@ -12,6 +12,12 @@ Sample Output 1:
 Explanation For Input 1:
 For the given string "aaC" there are two partitions in which all substring of partition is a palindrome.
 
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

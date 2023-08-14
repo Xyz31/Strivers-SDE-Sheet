@@ -12,6 +12,13 @@ Sample Output 1:
 Explanation For Sample Input 1:
 3rd Root of 27 is 3, as (3)^3 equals 27.
 
+
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

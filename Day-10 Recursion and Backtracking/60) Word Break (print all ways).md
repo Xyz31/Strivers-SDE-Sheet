@@ -18,6 +18,13 @@ Explanation To Sample Input 1:
 One way to make sentences is to take “god” and append a space, then take “is”  and append space, take “now” from the dictionary and take “here” as well. 
 Similarly, for other sentences also, we can add space to get other possible sentences. Note that we can reuse dictionary words as “no” and “now” are used two times in the same sentence.
 
+
+```md
+
+
+
+```
+
 ## code
 ```cpp
 

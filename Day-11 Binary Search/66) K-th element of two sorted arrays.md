@@ -25,6 +25,13 @@ For sample test case 1:
 1’st person will get 1 ladoos i.e a minimum of 1 and 2. Now  ‘ROW1’ :  [ ] and  ‘ROW2’ :  [2].
 2’st person will get 2 ladoos because we have only one element left in ROW2 . Now  ‘ROW1’ :  [] and  ‘ROW2’ :  [].
 
+
+```md
+
+
+
+```
+
 ## code
 ```cpp
 
