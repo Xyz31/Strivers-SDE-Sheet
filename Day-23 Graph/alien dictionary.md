@@ -23,6 +23,7 @@ Similarly we can find other orders.
 Input: 
 N = 3, K = 3
 dict = {"caa","aaa","aab"}
+
 Output:
 1
 
@@ -32,5 +33,14 @@ Here order of characters is
 and in the given language "caa" comes before
 "aaa", therefore 'c' is before 'a' in output.
 Similarly we can find other orders.
+
+```
+
+```cpp
+
+/* 
+Code will be updated soon
+*/
+
 
 ```
