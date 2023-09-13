@@ -6,7 +6,7 @@
 
 
 ```
- 
+
 # Approach - I
 ```cpp
 
